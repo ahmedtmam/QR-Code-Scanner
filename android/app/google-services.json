@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358943252756",
+    "project_id": "qr-code-2401e",
+    "storage_bucket": "qr-code-2401e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358943252756:android:bde41c95c813aa6926a201",
+        "android_client_info": {
+          "package_name": "com.phoenix.qr_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358943252756-ba95el36s855hsed6gh5818rvim7scol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR8RH2UF0W_gt7s2cMuGGcQiPi4Co5trI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358943252756-ba95el36s855hsed6gh5818rvim7scol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
