@@ -1,4 +1,5 @@
 # qr_code
+this project is to replace the id card of student to qr code 
 
 A new Flutter application.
 
